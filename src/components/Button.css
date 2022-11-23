@@ -1,0 +1,12 @@
+.btn {
+  padding: 1rem 2rem;
+  font-family: "Montserrat", sans-serif;
+  border-radius: 12px;
+  border: none;
+  background-color: rgb(204, 204, 204);
+  margin: 1rem auto 0 auto;
+}
+
+.btn:hover {
+  background-color: rgb(173, 173, 173);
+}
